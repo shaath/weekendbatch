@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="orgSuite" duration-ms="30911" started-at="2016-08-20T07:48:49Z" finished-at="2016-08-20T07:49:20Z">
+    <groups>
+    </groups>
+    <test name="orgTest" duration-ms="30911" started-at="2016-08-20T07:48:49Z" finished-at="2016-08-20T07:49:20Z">
+      <class name="com.orgHRM.testNG.userregTest">
+        <test-method status="PASS" signature="org_userreg()[pri:0, instance:com.orgHRM.testNG.userregTest@3b5fd4a3]" name="org_userreg" duration-ms="16575" started-at="2016-08-20T13:19:01Z" finished-at="2016-08-20T13:19:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- org_userreg -->
+      </class> <!-- com.orgHRM.testNG.userregTest -->
+      <class name="com.orgHRM.testNG.empregTest">
+        <test-method status="PASS" signature="org_Launch()[pri:0, instance:com.orgHRM.testNG.empregTest@3ea4e3ae]" name="org_Launch" is-config="true" duration-ms="24072" started-at="2016-08-20T13:18:25Z" finished-at="2016-08-20T13:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- org_Launch -->
+        <test-method status="PASS" signature="org_Login()[pri:0, instance:com.orgHRM.testNG.empregTest@3ea4e3ae]" name="org_Login" is-config="true" duration-ms="4271" started-at="2016-08-20T13:18:49Z" finished-at="2016-08-20T13:18:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- org_Login -->
+        <test-method status="PASS" signature="org_empreg()[pri:0, instance:com.orgHRM.testNG.empregTest@3ea4e3ae]" name="org_empreg" duration-ms="7525" started-at="2016-08-20T13:18:54Z" finished-at="2016-08-20T13:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- org_empreg -->
+        <test-method status="PASS" signature="org_Logout()[pri:0, instance:com.orgHRM.testNG.empregTest@3ea4e3ae]" name="org_Logout" is-config="true" duration-ms="2474" started-at="2016-08-20T13:19:18Z" finished-at="2016-08-20T13:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- org_Logout -->
+        <test-method status="PASS" signature="org_Close()[pri:0, instance:com.orgHRM.testNG.empregTest@3ea4e3ae]" name="org_Close" is-config="true" duration-ms="30" started-at="2016-08-20T13:19:20Z" finished-at="2016-08-20T13:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- org_Close -->
+      </class> <!-- com.orgHRM.testNG.empregTest -->
+    </test> <!-- orgTest -->
+  </suite> <!-- orgSuite -->
+</testng-results>
